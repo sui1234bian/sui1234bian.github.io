@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am now a final year undergraduate student at Dalian University of Technology(DLUT), working with Prof. [Tong Li](https://faculty.dlut.edu.cn/litong/zh_CN/index.htm) on high dimensional data clustering. I am also an incoming joint Ph.D. student at University of Science and Technology of China(USTC) and Shanghai Artificial Intelligence Laboratory, supervised by Prof. [Yan Lu](https://scholar.google.com/citations?user=YbbHudwAAAAJ&hl=zh-CN) and Prof. [Bin Liu](https://scholar.google.com/citations?hl=zh-CN&user=kReWULQAAAAJ=zh-CN).
+Hi there! I am now a final year undergraduate student at Dalian University of Technology(DLUT), working with Prof. [Tong Li](https://faculty.dlut.edu.cn/litong/zh_CN/index.htm) on high dimensional data clustering. I am also an incoming joint Ph.D. student at University of Science and Technology of China(USTC) and Shanghai Artificial Intelligence Laboratory, supervised by Prof. [Yan Lu](https://scholar.google.com/citations?user=YbbHudwAAAAJ&hl=zh-CN) and Prof. [Bin Liu](https://scholar.google.com/citations?hl=zh-CN&user=kReWULQAAAAJ).
 
 Currently my research interests lie in the Computer Vision and AI for Science, primarily focusing on the AI for astronomy. I am also interested in the newest AI technologies and want to apply them to the astronomy field.
 
@@ -45,7 +45,7 @@ Currently my research interests lie in the Computer Vision and AI for Science, p
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.12* **Chinese National Scholarship**, highest honor for undergraduates, top 2% nationwide.
+- *2023.12*, **Chinese National Scholarship**, highest honor for undergraduates, top 2% nationwide.
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
