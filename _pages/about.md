@@ -40,6 +40,7 @@ Tong Li, Yongnan Zhai, **Yingfan Hua**
 
 _Systems Engineering - Theory & Practice_, 2024.
 </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.12*, **Chinese National Scholarship**, highest honor for undergraduates, top 2% nationwide.
