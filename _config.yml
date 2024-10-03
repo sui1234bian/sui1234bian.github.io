@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yingfan Hua - Homepage"
+title                    : "Yingfan Hua"
 description              : "Senior student at Dalian University of Technology. Incoming CS Ph.D at USTC & Shanghai AI Lab"
 repository               : "sui1234bian/sui1234bian.github.io"
 google_scholar_stats_use_cdn : true
