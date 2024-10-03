@@ -31,14 +31,14 @@ Currently my research interests lie in the Computer Vision and AI for Science, p
 # 📝 Publications 
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/ProTrek.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/k-fermat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research on k-Fermat algorithm for optimal partitioning clustering of high-dimensional data**
 
-Tong Li, Yongnan Zhai, **Yingfan Hua**
+Tong Li, Yongnan Zhai, **_Yingfan Hua_**
 
-_Systems Engineering - Theory & Practice_, 2024.
+_Systems Engineering - Theory & Practice_ 2024
 </div>
 </div>
 
