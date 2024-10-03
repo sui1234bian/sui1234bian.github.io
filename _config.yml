@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yingfan Hua - Homepage"
 description              : "Senior student at Dalian University of Technology. Incoming CS Ph.D at USTC & Shanghai AI Lab"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "sui1234bian/sui1234bian.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yingfan Hua 华英凡"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "University of Science and Technology of China"
   location         : "Shanghai, China"
   employer         :
