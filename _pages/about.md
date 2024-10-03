@@ -36,7 +36,7 @@ Currently my research interests lie in the Computer Vision and AI for Science, p
 
 **Research on k-Fermat algorithm for optimal partitioning clustering of high-dimensional data** [[link]](https://sysengi.cjoe.ac.cn/CN/10.12011/SETP2023-0173)
 
-Tong Li, Yongnan Zhai, **_Yingfan Hua_**
+Tong Li, Yongnan Zhai, <u>**_Yingfan Hua_**</u>
 
 _Systems Engineering - Theory & Practice_  2024
 </div>
