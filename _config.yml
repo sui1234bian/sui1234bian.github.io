@@ -11,6 +11,9 @@ description              : "Senior student at Dalian University of Technology. I
 repository               : "sui1234bian/sui1234bian.github.io"
 google_scholar_stats_use_cdn : true
 
+# 添加 canonical_url 来指定主页面的URL
+canonical_url            : "https://sui1234bian.github.io/"
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
