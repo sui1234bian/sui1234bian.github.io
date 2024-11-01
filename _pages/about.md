@@ -56,4 +56,4 @@ _Systems Engineering - Theory & Practice_  2024
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *Incoming*, [*Shanghai Artificial Intelligence Laboratory*](https://www.shlab.org.cn/), Shanghai, China.
+- *2024.11-now*, [*Shanghai Artificial Intelligence Laboratory*](https://www.shlab.org.cn/), Shanghai, China.
