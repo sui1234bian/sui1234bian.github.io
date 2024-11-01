@@ -43,7 +43,8 @@ _Systems Engineering - Theory & Practice_  2024
 </div>
 
 # 🎖 Honors and Awards
-- *2023.12*, **Chinese National Scholarship**, highest honor for undergraduates, top 2% nationwide.
+- *2024.12*, **Chinese National Scholarship**, highest honor for undergraduates, top 0.4% nationwide.
+- *2023.12*, **Chinese National Scholarship**, highest honor for undergraduates, top 0.2% nationwide.
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
