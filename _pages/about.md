@@ -58,4 +58,5 @@ _Systems Engineering - Theory & Practice_  2024
 # 💻 Internships
 - *2024.11 - now*, [*Shanghai Artificial Intelligence Laboratory*](https://www.shlab.org.cn/), Shanghai, China.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=fqVcqjyEUoXPS9YFJSF3Q1zGkoIcoWxbkdS8hralsFg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+# 🗺️ Map
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=600&t=tt&d=fqVcqjyEUoXPS9YFJSF3Q1zGkoIcoWxbkdS8hralsFg&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
